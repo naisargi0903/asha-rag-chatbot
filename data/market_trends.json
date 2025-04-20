@@ -1,0 +1,33 @@
+{
+    "industry_trends": {
+        "software_development": [],
+        "data_science": [],
+        "cloud_computing": [],
+        "cybersecurity": [],
+        "ai_ml": [],
+        "blockchain": [],
+        "iot": []
+    },
+    "job_market_insights": {
+        "software_development": {
+            "demand_level": "",
+            "growth_rate": "",
+            "top_companies": [],
+            "required_skills": [],
+            "salary_ranges": {},
+            "remote_opportunities": []
+        },
+        "data_science": {
+            "demand_level": "",
+            "growth_rate": "",
+            "top_companies": [],
+            "required_skills": [],
+            "salary_ranges": {},
+            "remote_opportunities": []
+        }
+    },
+    "emerging_technologies": [],
+    "skill_trends": {},
+    "last_updated": "",
+    "source": "news_api"
+} 

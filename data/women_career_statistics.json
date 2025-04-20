@@ -1,0 +1,52 @@
+{
+    "statistics": {
+        "stem": {
+            "representation": "28% of the STEM workforce",
+            "growth": "Increasing by 1% annually",
+            "challenges": [
+                "Gender bias in hiring and promotion",
+                "Lack of role models",
+                "Work-life balance concerns"
+            ],
+            "opportunities": [
+                "High demand for STEM skills",
+                "Growing support programs",
+                "Increasing awareness of diversity benefits"
+            ]
+        },
+        "leadership": {
+            "ceo_positions": "8.2% of Fortune 500 CEOs",
+            "board_seats": "30% of board seats in Fortune 500 companies",
+            "management": "42% of managerial positions",
+            "trends": [
+                "Slow but steady increase in representation",
+                "More companies setting diversity goals",
+                "Growing recognition of women's leadership strengths"
+            ]
+        },
+        "education": {
+            "stem_degrees": "35% of STEM bachelor's degrees",
+            "graduate_degrees": "45% of master's degrees",
+            "doctorates": "40% of PhDs",
+            "trends": [
+                "Increasing enrollment in STEM programs",
+                "More women pursuing advanced degrees",
+                "Growing number of women faculty"
+            ]
+        },
+        "entrepreneurship": {
+            "business_owners": "42% of all businesses",
+            "growth_rate": "Growing 2.5x faster than average",
+            "challenges": [
+                "Access to funding",
+                "Networking opportunities",
+                "Work-life balance"
+            ],
+            "success_factors": [
+                "Strong support networks",
+                "Mentorship programs",
+                "Access to resources"
+            ]
+        }
+    }
+} 

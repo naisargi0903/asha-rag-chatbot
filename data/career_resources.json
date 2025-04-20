@@ -1,0 +1,25 @@
+{
+    "learning_resources": {
+        "python_development": [],
+        "web_development": [],
+        "data_science": [],
+        "cloud_computing": [],
+        "devops": [],
+        "mobile_development": [],
+        "cybersecurity": [],
+        "ai_ml": [],
+        "blockchain": [],
+        "iot": []
+    },
+    "career_paths": {
+        "software_development": [],
+        "data_engineering": [],
+        "cloud_architecture": [],
+        "devops_engineering": [],
+        "security_engineering": [],
+        "product_management": [],
+        "technical_leadership": []
+    },
+    "last_updated": "",
+    "source": "serp_api"
+} 

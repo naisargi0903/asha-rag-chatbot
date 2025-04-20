@@ -1,0 +1,163 @@
+{
+    "tools": {
+        "base_tool": {
+            "description": "Base class for all tools in the system",
+            "functionality": "Provides common functionality and interface that all other tools inherit from",
+            "use_cases": [
+                "Tool registration",
+                "Standard execution patterns",
+                "Error handling"
+            ]
+        },
+        "career_path": {
+            "description": "Tool for career path analysis and guidance",
+            "functionality": "Analyzes career trajectories and provides personalized recommendations",
+            "features": [
+                "Career path analysis",
+                "Skill gap identification",
+                "Learning resource recommendations",
+                "Next steps planning"
+            ],
+            "use_cases": [
+                "Career transition planning",
+                "Professional development",
+                "Skill enhancement strategies"
+            ]
+        },
+        "event_recommender": {
+            "description": "Tool for recommending relevant career and networking events",
+            "functionality": "Suggests events based on user interests and career goals",
+            "features": [
+                "Event matching",
+                "Personalized recommendations",
+                "Location-based suggestions",
+                "Industry-specific events"
+            ],
+            "use_cases": [
+                "Professional networking",
+                "Skill development workshops",
+                "Industry conferences"
+            ]
+        },
+        "interview_preparation": {
+            "description": "Tool for interview preparation and practice",
+            "functionality": "Provides interview resources and practice scenarios",
+            "features": [
+                "Common interview questions",
+                "Industry-specific preparation",
+                "Mock interview scenarios",
+                "Feedback and tips"
+            ],
+            "use_cases": [
+                "Job interview preparation",
+                "Technical interview practice",
+                "Behavioral interview training"
+            ]
+        },
+        "job_search": {
+            "description": "Tool for job search and application assistance",
+            "functionality": "Helps users find and apply for relevant job opportunities",
+            "features": [
+                "Job matching",
+                "Application tracking",
+                "Resume optimization",
+                "Company research"
+            ],
+            "use_cases": [
+                "Job hunting",
+                "Career transitions",
+                "Application management"
+            ]
+        },
+        "skill_gap": {
+            "description": "Tool for identifying and addressing skill gaps",
+            "functionality": "Analyzes current skills and recommends improvements",
+            "features": [
+                "Skill assessment",
+                "Gap analysis",
+                "Learning recommendations",
+                "Progress tracking"
+            ],
+            "use_cases": [
+                "Professional development",
+                "Career advancement",
+                "Learning planning"
+            ]
+        },
+        "success_stories": {
+            "description": "Tool for sharing and accessing success stories",
+            "functionality": "Provides inspiring stories of career achievements",
+            "features": [
+                "Story collection",
+                "Categorization by field",
+                "Search and filtering",
+                "Personalized recommendations"
+            ],
+            "use_cases": [
+                "Inspiration and motivation",
+                "Career path examples",
+                "Learning from others' experiences"
+            ]
+        },
+        "tool_registry": {
+            "description": "Central registry for managing all available tools",
+            "functionality": "Manages tool registration and access",
+            "features": [
+                "Tool registration",
+                "Tool discovery",
+                "Access control",
+                "Version management"
+            ],
+            "use_cases": [
+                "Tool management",
+                "System integration",
+                "Feature discovery"
+            ]
+        },
+        "web_scraper": {
+            "description": "Tool for gathering information from web sources",
+            "functionality": "Extracts relevant career information from websites",
+            "features": [
+                "Content extraction",
+                "Data processing",
+                "Information categorization",
+                "Regular updates"
+            ],
+            "use_cases": [
+                "Knowledge base updates",
+                "Real-time information gathering",
+                "Resource collection"
+            ]
+        },
+        "web_search": {
+            "description": "Tool for searching web resources",
+            "functionality": "Performs targeted searches for career-related information",
+            "features": [
+                "Smart search algorithms",
+                "Result filtering",
+                "Source validation",
+                "Content relevance scoring"
+            ],
+            "use_cases": [
+                "Research assistance",
+                "Resource discovery",
+                "Information verification"
+            ]
+        },
+        "women_wellness": {
+            "description": "Tool for women's wellness and work-life balance",
+            "functionality": "Provides resources and guidance for holistic career development",
+            "features": [
+                "Work-life balance tips",
+                "Stress management",
+                "Health resources",
+                "Support networks"
+            ],
+            "use_cases": [
+                "Wellness planning",
+                "Work-life integration",
+                "Support system building"
+            ]
+        }
+    }
+} 

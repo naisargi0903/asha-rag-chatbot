@@ -1,0 +1,39 @@
+{
+    "success_stories": {
+        "software_development": [],
+        "data_science": [],
+        "cloud_computing": [],
+        "cybersecurity": [],
+        "ai_ml": [],
+        "technical_leadership": []
+    },
+    "career_advice": {
+        "entry_level": {
+            "tips": [],
+            "common_challenges": [],
+            "success_strategies": []
+        },
+        "mid_level": {
+            "tips": [],
+            "common_challenges": [],
+            "success_strategies": []
+        },
+        "senior_level": {
+            "tips": [],
+            "common_challenges": [],
+            "success_strategies": []
+        }
+    },
+    "interview_insights": {
+        "technical_interviews": [],
+        "behavioral_interviews": [],
+        "system_design_interviews": []
+    },
+    "skill_development": {
+        "technical_skills": {},
+        "soft_skills": {},
+        "leadership_skills": {}
+    },
+    "last_updated": "",
+    "source": "serp_api"
+} 

@@ -1,0 +1,57 @@
+{
+    "resources": {
+        "education": [
+            {
+                "name": "Girls Who Code",
+                "url": "https://girlswhocode.com",
+                "description": "Free programs for girls to learn coding and computer science skills"
+            },
+            {
+                "name": "AnitaB.org",
+                "url": "https://anitab.org",
+                "description": "Organization supporting women in technical careers through programs and communities"
+            },
+            {
+                "name": "Women Who Code",
+                "url": "https://www.womenwhocode.com",
+                "description": "Global community for women in technology with free resources and events"
+            }
+        ],
+        "mentorship": [
+            {
+                "name": "MentorNet",
+                "url": "https://mentornet.org",
+                "description": "Mentoring program for women in STEM fields"
+            },
+            {
+                "name": "Lean In Circles",
+                "url": "https://leanin.org/circles",
+                "description": "Small peer groups for women to support each other's career growth"
+            }
+        ],
+        "networking": [
+            {
+                "name": "Women in Technology International",
+                "url": "https://witi.com",
+                "description": "Global network for women in technology"
+            },
+            {
+                "name": "Society of Women Engineers",
+                "url": "https://swe.org",
+                "description": "Professional organization for women in engineering"
+            }
+        ],
+        "career_development": [
+            {
+                "name": "The Muse",
+                "url": "https://www.themuse.com",
+                "description": "Career advice and job search resources for women"
+            },
+            {
+                "name": "Ellevate Network",
+                "url": "https://www.ellevatenetwork.com",
+                "description": "Professional network for women with career development resources"
+            }
+        ]
+    }
+} 
